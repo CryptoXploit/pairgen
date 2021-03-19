@@ -69,7 +69,10 @@ Hacking
 Building
 --------
 
-For Linux make sure that gmp-dev is installed, then run make:
+For Linux:
+    $apt install clang
+    
+    $apt install libgmp3-dev
 
     $ make
 
