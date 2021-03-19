@@ -70,10 +70,9 @@ Building
 --------
 
 For Linux:
-    $apt install clang
     
+    $apt install clang
     $apt install libgmp3-dev
-
     $ make
 
 For Windows use MinGW cross-compilation.  First Download and build gmp-6.0.0
